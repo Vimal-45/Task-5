@@ -1,0 +1,128 @@
+[
+    {
+      "Invoice": {
+        "ID": "#AHGA68"
+      },
+      "Date": "23/09/2022",
+      "Customer": "Jacob Marcus",
+      "Payable": {
+        "Amount": "$100"
+      },
+      "Paid": {
+        "Amount": "$000"
+      },
+      "Due": "$000"
+    },
+    {
+      "Invoice": {
+        "ID": "#AHGA68"
+      },
+      "Date": "23/09/2022",
+      "Customer": "Jacob Marcus",
+      "Payable": {
+        "Amount": "$100"
+      },
+      "Paid": {
+        "Amount": "$000"
+      },
+      "Due": "$000"
+    },
+    {
+      "Invoice": {
+        "ID": "#AHGA68"
+      },
+      "Date": "23/09/2022",
+      "Customer": "Jacob Marcus",
+      "Payable": {
+        "Amount": "$100"
+      },
+      "Paid": {
+        "Amount": "$000"
+      },
+      "Due": "$000"
+    },
+    {
+      "Invoice": {
+        "ID": "#AHGA68"
+      },
+      "Date": "23/09/2022",
+      "Customer": "Jacob Marcus",
+      "Payable": {
+        "Amount": "$100"
+      },
+      "Paid": {
+        "Amount": "$000"
+      },
+      "Due": "$000"
+    },
+    {
+      "Invoice": {
+        "ID": "#AHGA68"
+      },
+      "Date": "23/09/2022",
+      "Customer": "Jacob Marcus",
+      "Payable": {
+        "Amount": "$100"
+      },
+      "Paid": {
+        "Amount": "$000"
+      },
+      "Due": "$000"
+    },
+    {
+      "Invoice": {
+        "ID": "#AHGA68"
+      },
+      "Date": "23/09/2022",
+      "Customer": "Jacob Marcus",
+      "Payable": {
+        "Amount": "$100"
+      },
+      "Paid": {
+        "Amount": "$000"
+      },
+      "Due": "$000"
+    },
+    {
+      "Invoice": {
+        "ID": "#AHGA68"
+      },
+      "Date": "23/09/2022",
+      "Customer": "Jacob Marcus",
+      "Payable": {
+        "Amount": "$100"
+      },
+      "Paid": {
+        "Amount": "$000"
+      },
+      "Due": "$000"
+    },
+    {
+      "Invoice": {
+        "ID": "#AHGA68"
+      },
+      "Date": "23/09/2022",
+      "Customer": "Jacob Marcus",
+      "Payable": {
+        "Amount": "$100"
+      },
+      "Paid": {
+        "Amount": "$000"
+      },
+      "Due": "$000"
+    },
+    {
+      "Invoice": {
+        "ID": "#AHGA68"
+      },
+      "Date": "23/09/2022",
+      "Customer": "Jacob Marcus",
+      "Payable": {
+        "Amount": "$100"
+      },
+      "Paid": {
+        "Amount": "$000"
+      },
+      "Due": "$000"
+    }
+  ]

@@ -1,0 +1,102 @@
+.dashboard>p
+{
+    padding: 0.4rem;
+ 
+}
+
+
+.lab{
+    margin-top: 3rem;
+}
+.help{
+
+   margin-top: 21rem;
+}
+
+h5{
+    margin-top: 3rem;
+    color: rgb(60, 163, 227);
+}
+
+h4{
+    color: rgb(28, 95, 218);
+}
+
+.salInfo
+{
+    margin-top: 2rem;
+    color: black !important;
+}
+
+.inputData{
+    margin-top: 2rem;
+}
+
+th{
+   
+    border: none;
+    
+}
+
+.mainBox{
+    background-color:rgb(239, 243, 249);
+}
+
+
+.mb-1{
+    margin-top: 3rem;
+}
+
+.side{
+    margin-top: 3rem;
+}
+
+
+
+.side:hover, .salesinfo:hover, Table:hover{
+    border: 3px solid rgb(8, 178, 251);
+}
+
+thead{
+
+  background-color: aqua;
+}
+
+
+
+.mb-1{
+
+    width: 50%;
+}
+
+span{
+    display: flex;
+    justify-content:flex-end;
+
+
+}
+.form-label {
+
+font-weight: bold;
+}
+.table>:not(caption)>*>* {
+
+    padding: 1rem;
+}
+
+.bell{
+
+    margin-top: -2% ;
+}
+
+.table>:hover{
+    border: none;
+    
+}
+
+
+.svg-inline--fa {
+
+    color: none;
+
+}
